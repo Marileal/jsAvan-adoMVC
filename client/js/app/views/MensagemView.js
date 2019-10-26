@@ -1,0 +1,5 @@
+class MensagemView extends View {
+
+
+
+}
